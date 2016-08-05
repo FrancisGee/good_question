@@ -7,3 +7,5 @@
 4.[如何高效利用早起后时间] (https://www.zhihu.com/question/20328135)
 
 5.[能用爬虫技术做到哪些很酷很有趣很有用的事情] (https://www.zhihu.com/question/27621722)
+
+6.[有哪些网站用爬虫爬取能得到很有价值的数据？] (http://www.zhihu.com/question/36132174)
