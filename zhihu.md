@@ -11,3 +11,5 @@
 6.[有哪些网站用爬虫爬取能得到很有价值的数据？] (http://www.zhihu.com/question/36132174)
 
 7.[人际交往中需要避免哪些自身不易认知的不良习惯？] (http://www.zhihu.com/question/29535185)
+
+8.[英文阅读中，有哪些值得注意的文化背景知识？] (http://daily.zhihu.com/story/8660423)
