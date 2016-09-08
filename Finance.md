@@ -1,3 +1,5 @@
-1.[为什么要用信用卡](http://www.zhihu.com/question/19795983)
+1.[涓轰粈涔堣鐢ㄤ俊鐢ㄥ崱](http://www.zhihu.com/question/19795983)
 
-2.[信用卡有哪些鲜为人知的技巧](http://www.zhihu.com/question/25520993)
+2.[淇＄敤鍗℃湁鍝簺椴滀负浜虹煡鐨勬妧宸(http://www.zhihu.com/question/25520993)
+
+3.[鍗氬紙璁哄涔犳帹鑽愪功绫峕(https://www.zhihu.com/question/20266302)
