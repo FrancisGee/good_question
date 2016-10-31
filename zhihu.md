@@ -22,3 +22,8 @@
 
 12.[显著提升程序员身心健康和工作效率的装备有哪些？](http://www.zhihu.com/question/23165812)
 
+13.[目前微信公众平台的开发者模式能实现那些功能？](https://www.zhihu.com/question/20956354)
+
+
+
+
